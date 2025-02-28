@@ -4,6 +4,7 @@
 - [yoonseon12](https://github.com/yoonseon12)
 - [stoneHee99](https://github.com/stoneHee99)
 - [oxix97](https://github.com/oxix97)
+- [anso33](https://github.com/anso33)
 
 
 ## 강의
