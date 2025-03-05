@@ -1,33 +1,51 @@
 # Real MySQL 스터디
 
 ## 맴버
+
 - [yoonseon12](https://github.com/yoonseon12)
 - [stoneHee99](https://github.com/stoneHee99)
 - [oxix97](https://github.com/oxix97)
 - [anso33](https://github.com/anso33)
 
-
 ## 강의
 
-| Part1 | Part2 |
-|---|---|
-| ![Part1](https://github.com/user-attachments/assets/8a42ebed-56f1-485b-907a-45445ca42e83) | ![Part2](https://github.com/user-attachments/assets/ca86601a-6cd8-482f-b739-8b563cc4b672) |
+| Part1                                                                                            | Part2                                                                                            |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ![Part1](https://github.com/user-attachments/assets/8a42ebed-56f1-485b-907a-45445ca42e83)        | ![Part2](https://github.com/user-attachments/assets/ca86601a-6cd8-482f-b739-8b563cc4b672)        |
 | <div align="center">[Real MySQL Part 1](https://www.inflearn.com/course/real-mysql-part-1)</div> | <div align="center">[Real MySQL Part 2](https://www.inflearn.com/course/real-mysql-part-2)</div> |
-
 
 ## 진행 방식
 
 ### 강의 수강
-  - 매주 3개 분량의 강의 수강
+
+- 매주 3개 분량의 강의 수강
 
 ### 수업 내용 정리
-  - 강의 내용을 정리하여 문서로 작성
-  - 정리한 문서를 GitHub에 업로드
+
+- 강의 내용을 정리하여 문서로 작성
+- 정리한 문서를 GitHub에 업로드
 
 ### 발표자 선정
-  - 스터디 전 랜덤 방식으로 발표자를 선정
+
+- 스터디 전 랜덤 방식으로 발표자를 선정
 
 ### 스터디 진행
-  - 매주 **수요일 21시**에 진행
-  - 강의 내용을 발표하고 의견을 공유
+
+- 매주 **수요일 21시**에 진행
+- 강의 내용을 발표하고 의견을 공유
+
+## 진행 내역
+
+|                | 제목                                                           | 발표자 | 스터디 일자      |
+|----------------|--------------------------------------------------------------|-----|-------------|
+| **Part 1**     |                                                              |     |             |
+| lecture01 - 03 | CHAR vs VARCHAR, VARCHAR vs TEXT, COUNT(*) & COUNT(DISTINCT) |     | 25. 3. 6. 목 |
+|                |                                                              |     |             |
+|                |                                                              |     |             |
+|                |                                                              |     |             |
+| **Part 2**     |                                                              |     |             |
+|                |                                                              |     |             |
+|                |                                                              |     |             |
+|                |                                                              |     |             |
+|                |                                                              |     |             |
 
