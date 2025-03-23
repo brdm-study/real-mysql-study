@@ -31,21 +31,21 @@
 
 ### 스터디 진행
 
-- 매주 **수요일 21시**에 진행
+- 매주 **목요일 22시**에 진행
 - 강의 내용을 발표하고 의견을 공유
 
 ## 진행 내역
 
-|                    | 제목                                                                   | 발표자                                         | 스터디 일자      |
-|--------------------|----------------------------------------------------------------------|---------------------------------------------|-------------|
-| <h3>Part 1</h3>    |                                                                      |                                             |             |
-| lecture<br>01 ~ 03 | CHAR vs VARCHAR <br> VARCHAR vs TEXT <br> COUNT(*) & COUNT(DISTINCT) | [stoneHee99](https://github.com/stoneHee99) | 25. 3. 6. 목 |
-| lecture<br>04 ~ 06 | 페이징 쿼리 작성 <br> Stored Function <br> Lateral Derived Table            |                                             |             |
-|                    |                                                                      |                                             |             |
-|                    |                                                                      |                                             |             |
-| <h3>Part 2<h3>     |                                                                      |                                             |             |
-|                    |                                                                      |                                             |             |
-|                    |                                                                      |                                             |             |
-|                    |                                                                      |                                             |             |
-|                    |                                                                      |                                             |             |
+|                    | 제목                                                                   | 발표자                                         | 스터디 일자        |
+|--------------------|----------------------------------------------------------------------|---------------------------------------------|---------------|
+| <h3>Part 1</h3>    |                                                                      |                                             |               |
+| lecture<br>01 ~ 03 | CHAR vs VARCHAR <br> VARCHAR vs TEXT <br> COUNT(*) & COUNT(DISTINCT) | [stoneHee99](https://github.com/stoneHee99) | 25. 03. 06. 목 |
+| lecture<br>04 ~ 06 | 페이징 쿼리 작성 <br> Stored Function <br> Lateral Derived Table            | [anso33](https://github.com/anso33)         | 25. 03. 20. 목 |
+| lecture<br>07 ~ 09 | SELECT ... FOR UPDATE <br> Generated 컬럼 및 함수 기반 인덱스 <br> 에러 핸들링      |                                             |               |
+|                    |                                                                      |                                             |               |
+| <h3>Part 2<h3>     |                                                                      |                                             |               |
+|                    |                                                                      |                                             |               |
+|                    |                                                                      |                                             |               |
+|                    |                                                                      |                                             |               |
+|                    |                                                                      |                                             |               |
 
