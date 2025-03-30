@@ -31,7 +31,7 @@
 
 ### 스터디 진행
 
-- 매주 **목요일 22시**에 진행
+- 매주 **수요일 22시**에 진행
 - 강의 내용을 발표하고 의견을 공유
 
 ## 진행 내역
@@ -40,9 +40,9 @@
 |--------------------|----------------------------------------------------------------------|---------------------------------------------|---------------|
 | <h3>Part 1</h3>    |                                                                      |                                             |               |
 | lecture<br>01 ~ 03 | CHAR vs VARCHAR <br> VARCHAR vs TEXT <br> COUNT(*) & COUNT(DISTINCT) | [stoneHee99](https://github.com/stoneHee99) | 25. 03. 06. 목 |
-| lecture<br>04 ~ 06 | 페이징 쿼리 작성 <br> Stored Function <br> Lateral Derived Table            | [anso33](https://github.com/anso33)         | 25. 03. 20. 목 |
-| lecture<br>07 ~ 09 | SELECT ... FOR UPDATE <br> Generated 컬럼 및 함수 기반 인덱스 <br> 에러 핸들링      |                                             |               |
-|                    |                                                                      |                                             |               |
+| lecture<br>04 ~ 06 | 페이징 쿼리 작성 <br> Stored Function <br> Lateral Derived Table            | [anso33](https://github.com/anso33)         | 25. 03. 19. 수 |
+| lecture<br>07 ~ 09 | SELECT ... FOR UPDATE <br> Generated 컬럼 및 함수 기반 인덱스 <br> 에러 핸들링      | [yoonseon12](https://github.com/yoonseon12) | 25. 03. 26. 수 |
+| lecture<br>10 ~ 12 | LEFT JOIN 주의사항 및 튜닝 <br> Prepared Statement <br> SQL 문장의 가독성 향상      |                                             |               |
 | <h3>Part 2<h3>     |                                                                      |                                             |               |
 |                    |                                                                      |                                             |               |
 |                    |                                                                      |                                             |               |
