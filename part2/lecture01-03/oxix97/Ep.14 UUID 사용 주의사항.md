@@ -48,5 +48,5 @@ SELECT HEX(UUID_TO_BIN(@uuid,1));
 
 시간 순서대로 정렬된 값은 최근 데이터일수록 UUID가 큰 값을 가지게 되는 특징이 있습니다. 그래서 최근의 데이터를 주로 필요로 하는 서비스에서 UUID 컬럼의 인덱스로 생성해도 최근 몇 개월의 UUID prefix를 가진 데이터만 메모리에 적재가 되어 있으면 쿼리 처리를 빠르게 할 수 있다.
 
-![[Pasted image 20250409213048.png]]
+![Pasted image 20250409213048](https://github.com/user-attachments/assets/a08fd4b0-6dd9-4652-88b9-3aa56edd5baf)
 
