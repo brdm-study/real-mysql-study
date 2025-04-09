@@ -59,13 +59,13 @@ Character Set, Collation 모두 특별히 값을 설정하지 않은 경우, 기
 #### 2. WHERE절에서 콜레이션 변경 시 일반 인덱스 사용 불가
 WHERE절에서 `collate` 키워드를 사용하여 변경하는 경우 해당 컬럼의 인덱스가 존재하더라도 사용할 수 없습니다.
 
-![[Pasted image 20250409124912.png]]
+![Pasted image 20250409124912](https://github.com/user-attachments/assets/6d1a16fc-15ec-41d6-b7fd-94af74c846e1)
 
 일반적으로 인덱스 데이터는 인덱싱되는 문자열 컬럼에 지정된 콜레이션 규칙에 따라 정렬되어 저장되고, 인덱스를 통한 데이터 검색이나 비교 연산등도 컬럼에 설정된 콜레이션을 바탕으로 수행됩니다.
 
 즉, 쿼리에서 명시적으로 `collate`를 사용해 변경하는 경우 실제 콜레이션과 다르기 때문에 인덱스를 사용할 수 없습니다.
 
-![[Pasted image 20250409125230.png]]
+![Pasted image 20250409125230](https://github.com/user-attachments/assets/d42ac8d3-5575-430f-94d5-591aee366265)
 
 표현식을 사용하는 함수 기반 인덱스로 하여 쿼리에서 사용하는 형태 그대로 표현식에 지정하여 인덱스를 생성하면 제대로 사용할 수 있습니다.
 
@@ -76,8 +76,9 @@ WHERE절에서 `collate` 키워드를 사용하여 변경하는 경우 해당 �
 
 컬럼에 unique 제약 설정의 경우 해당 부분을 고려하여 설정하는 것이 중요합니다.
 #### 4. 기본 콜레이션(utf8mb4_0900_ai_ci)에서의 한글 비교 문제
-![[Pasted image 20250409201407.png]]
 
-![[Pasted image 20250409201537.png]]
+![Pasted image 20250409201407](https://github.com/user-attachments/assets/477ecdf3-a54c-407f-98f6-d663ffbeaffd)
+![Pasted image 20250409201537](https://github.com/user-attachments/assets/523e770e-a6bf-4c73-a275-9d82fefe0fc2)
+
 #### 5. 대소문자 구문을 위한 콜레이션 선정
 기본 콜레이션은 대소문자를 구분하지 않으며, utf8mb4 문자집합에 속한 콜레이션 중 대소문자를 구분할 수 있는 콜레이션을 선정해야합니다.
