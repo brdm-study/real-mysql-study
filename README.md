@@ -6,6 +6,7 @@
 - [stoneHee99](https://github.com/stoneHee99)
 - [oxix97](https://github.com/oxix97)
 - [anso33](https://github.com/anso33)
+- [Hju95](https://github.com/Hju95)
 
 ## 강의
 
@@ -45,7 +46,7 @@
 | lecture<br>10 ~ 12 | - LEFT JOIN 주의사항 및 튜닝 <br> - Prepared Statement <br> - SQL 문장의 가독성 향상                                     | [oxix97](https://github.com/oxix97)         | 25. 04. 02. 수 |
 | <h3>Part 2<h3>     |                                                                                                           |                                             |               |
 | lecture<br>13 ~ 15 | - 콜레이션 <br> - UUID 사용 주의사항 <br> - 풀스캔 쿼리 패턴 및 튜닝                                                          | [yoonseon12](https://github.com/yoonseon12) | 25. 04. 09. 수 |
-| lecture<br>16 ~ 18 | - COUNT(*) vs COUNT(column) <br> - SELECT ... FOR UPDATE [ NOWAIT SKIP LOCKED ] <br> - UNION vs UNION ALL |                                             |               |               |
-|                    |                                                                                                           |                                             |               |
-|                    |                                                                                                           |                                             |               |
+| lecture<br>16 ~ 18 | - COUNT(*) vs COUNT(column) <br> - SELECT ... FOR UPDATE [ NOWAIT SKIP LOCKED ] <br> - UNION vs UNION ALL | [anso33](https://github.com/anso33)         | 25. 04. 16. 수 |
+| lecture<br>19 ~ 21 | - JSON 타입 활용 <br> - 데드락 <br> - JOIN UPDATE & JOIN DELETE                                                  | [Hju95](https://github.com/Hju95)           | 25. 04. 23. 수 |
+| lecture<br>22 ~ 24 | - 커넥션 관리 <br> - 테이블 파티셔닝 <br> - DBMS 활용(배치 처리 주의사항)                                                       |                                             |               |
 
