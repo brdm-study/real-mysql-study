@@ -27,6 +27,7 @@ DB 서버의 자우너을 좀 더 효율적으로 사용할 수 있으며, 쿼�
 `Partition Pruning`은 자원 사용 효율과 쿼리 성능을 향상시키는 핵심 기술이며, 예시는 다음과 같습니다.
 
 ```mysql
+
 CREATE TABLE orders (
     order_id INT NOT NULL,
     order_date DATE NOT NULL,
@@ -187,8 +188,9 @@ WHERE created_at < '2024-06-01';
 ```
 
 즉, **표현식이 일치하지 않아도**, 내부적으로 **결과가 정적으로 계산 가능**하면 pruning은 작동한다는 것을 알 수 있습니다.
+
 #### 쿼리 처리 과정 다이어그램
-![[Pasted image 20250429111421.png]]
+![Pasted image 20250429111421](https://github.com/user-attachments/assets/57e695da-c2a7-4f9b-888f-d42ced53b58c)
 
 ---
 ### Partition Table 사용 가이드
